@@ -1,4 +1,4 @@
-# 🎗️ Proyecto de Data Analyst: Análisis de Datos Médicos en Power BI
+# 🎗️ Proyecto de Data Analytics: Supervivencia del Cancer de mama
 
 ## Descripción del Proyecto
 
